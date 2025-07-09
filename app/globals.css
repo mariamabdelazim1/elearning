@@ -1,3 +1,5 @@
+/*A global stylesheet where you define universal styles that apply throughout the website.*/
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

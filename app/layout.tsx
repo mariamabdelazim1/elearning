@@ -1,3 +1,4 @@
+//This is where you define the layout for your app, which can include headers, footers, or sidebars that are consistent across pages.
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
